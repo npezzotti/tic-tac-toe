@@ -1,0 +1,50 @@
+body {
+    margin: 10px 450px;
+    background-color: whitesmoke;
+}
+h1 {
+    margin: 0 0 25px 0;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+div {
+    display: inline-block;
+    height: 175px;
+    width: 175px;
+    font-size: 197px;
+    text-align: center;
+}
+#one {
+    border-right: solid;
+    border-bottom: solid;
+}
+#two {
+    border-bottom: solid;
+    border-right: solid;
+}
+#three {
+    border-bottom: solid;
+}
+#four {
+    border-right: solid;
+    border-bottom: solid;
+}
+#five {
+    border-bottom: solid;
+    border-right: solid;
+}
+#six {
+    border-bottom: solid;
+}
+#seven {
+    border-right: solid;
+}
+#eight {
+    border-right: solid;
+}
+footer {
+    margin: 25px 0;
+    text-align: center;
+}
